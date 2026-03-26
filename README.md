@@ -123,12 +123,12 @@ Add your application screenshots here.
 
 ### Home Screen
 ```
-![Home Screen] (https://i.ibb.co/CpHjG8qG/Whats-App-Image-2026-03-26-at-8-56-07-PM-1.jpg)
+![Home Screen] https://i.ibb.co/CpHjG8qG/Whats-App-Image-2026-03-26-at-8-56-07-PM-1.jpg
 ```
 
 ### Search Screen
 ```
-![Search Screen] (https://i.ibb.co/zwz4J5p/Whats-App-Image-2026-03-26-at-8-56-07-PM.jpg)
+![Search Screen] https://i.ibb.co/zwz4J5p/Whats-App-Image-2026-03-26-at-8-56-07-PM.jpg
 ```
 
 > Place the screenshots inside an **images folder** in your repository.
